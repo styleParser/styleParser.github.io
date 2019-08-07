@@ -1,0 +1,41 @@
+body {
+}
+
+body > label {
+}
+
+body > label > textarea {
+  padding: 20px;
+  width: 750px;
+  height: 250px;
+}
+
+.buttonInside {
+  margin-top: 16px;
+}
+
+.button {
+  border: 2px solid #c1bbbb;
+  padding: 15px 30px;
+  background: #e4e4e4;
+}
+
+.classListInside {
+}
+
+.classList {
+}
+
+.response {
+  border: 2px solid #cccccc;
+  background: #dedcdc;
+  display: flex;
+  color: #000000;
+  margin-top: 20px;
+  max-width: 500px;
+}
+
+.styles {
+  font-family: Roboto;
+  padding: 20px;
+}
