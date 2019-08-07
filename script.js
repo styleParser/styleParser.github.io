@@ -1,7 +1,7 @@
-window.addEventListener("load", input);
+window.addEventListener("load", inputFunction);
 window.clientClassList = [];
 
-function input() {
+function inputFunction() {
   const textarea = document.querySelector("body > label > textarea");
   const virtualDiv = document.createElement("html");
   virtualDiv.className = "firstFragment";
